@@ -8,6 +8,11 @@ How do we decide what to say to ensure our meanings will be understood? The Rati
 
 ### Repository Contents
 
+#### Stims for Multi-distractor/
+
+All stimuli used for the experiment reported in this paper. We include the original clip art used while generating the stimuli (objects), all context scenes (e.g. 1 person and 6 animals for the 'FEED' event, FEED_1_6.jpg), and all actions (FEED, DRINK, etc.)
+
+
 #### Adult - Multidistractor/
 
 ##### Folders
@@ -24,11 +29,6 @@ The willow script (randomizes order/condition assignments, displays trials to pa
 * Response coding/
 
 Files used during initial coding by RAs of raw responses -> category (e.g. 'dog' -> PATIENT)
-
-* Stims for Multi-distractor/
-
-All stimuli used for the experiment reported in this paper. We include the original clip art used while generating the stimuli (objects), all context scenes (e.g. 1 person and 6 animals for the 'FEED' event, FEED_1_6.jpg), and all actions (FEED, DRINK, etc.)
-
 
 ##### Files
 
