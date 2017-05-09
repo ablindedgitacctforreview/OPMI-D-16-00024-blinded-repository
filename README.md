@@ -4,11 +4,15 @@ Paper title: Partial truths: Adults choose to mention agents and patients in pro
 
 This repository serves as the supplemental materials for the submitted manuscript OPMI-D-16-00024.  It's currently anonymized for peer review. 
 
-### Abstract
-
-How do we decide what to say to ensure our meanings will be understood? The Rational Speech Act model (RSA, Frank & Goodman, 2012) asserts that speakers plan what to say by comparing the informativity of words in a particular context. We present the first example of an RSA model of sentence level (who-did-what-to-whom) meanings. In these contexts, the set of possible messages must be abstracted from entities in common ground (people and objects) to possible events (*Jane eats the apple, Marco peels the banana*), with each word contributing unique semantic content. How do speakers accomplish the transformation from context to compositional messages? In a communication game, participants described transitive events (e.g. Jane pets the dog), with only two words, in contexts where two words either were or were not enough to uniquely identify an event. Adults chose utterances matching the predictions of the RSA even when there was no possible fully successful choice. Thus we show that adults’ communicative behavior can be described by a model that accommodates informativity in context, beyond the set of possible entities in common ground.  This study suggests that full-blown natural speech may result from speakers who model and adapt to the listener’s needs.
-
 ### Repository Contents
+
+* README.md
+
+This document
+
+* FOOTNOTES.txt
+
+Footnotes from the main manuscript
 
 #### Stims for Multi-distractor/
 
@@ -63,3 +67,8 @@ Outputs of the models, produced by mainFun.m
 * one word models/
 
 Contains versions of the models used earlier on; they generated predictions for 1 word productions followed by sampling 2 words w/o replacement from those likelihoods (this is much more confusing to read about than the 2 word version)
+
+### Abstract
+
+How do we decide what to say to ensure our meanings will be understood? The Rational Speech Act model (RSA, Frank & Goodman, 2012) asserts that speakers plan what to say by comparing the informativity of words in a particular context. We present the first example of an RSA model of sentence level (who-did-what-to-whom) meanings. In these contexts, the set of possible messages must be abstracted from entities in common ground (people and objects) to possible events (*Jane eats the apple, Marco peels the banana*), with each word contributing unique semantic content. How do speakers accomplish the transformation from context to compositional messages? In a communication game, participants described transitive events (e.g. Jane pets the dog), with only two words, in contexts where two words either were or were not enough to uniquely identify an event. Adults chose utterances matching the predictions of the RSA even when there was no possible fully successful choice. Thus we show that adults’ communicative behavior can be described by a model that accommodates informativity in context, beyond the set of possible entities in common ground.  This study suggests that full-blown natural speech may result from speakers who model and adapt to the listener’s needs.
+
