@@ -1,5 +1,11 @@
- 1 These unergative alternations can be contrasted with unaccusative intransitive alternations like John broke the lamp/The lamp broke; here we focus solely on the inclusion/omission of agents and patients rather than the argument structure or syntactic behavior of particular verbs.
+## Footnotes (main manuscript)
 
-2 We evaluate these models by comparison with a model with the same random effects and only the effect of interest omitted from the fixed effects structure. Exact model specifications can be found in the analysis file named MD_turk.R in the repository for this paper. The results reported here reflect coding array type as an interval variable. Models treating this factor as an ordinal variable are available in the analysis script and produce very similar results except where noted. 
+[1] These unergative alternations can be contrasted with unaccusative intransitive alternations like John broke the lamp/The lamp broke; here we focus solely on the inclusion/omission of agents and patients rather than the argument structure or syntactic behavior of particular verbs.
 
-3 When coding array type as an ordinal variable, this model does not converge even with removal of random slopes/intercept terms
+[2] We evaluate these models by comparison with a model with the same random effects and only the effect of interest omitted from the fixed effects structure. Exact model specifications can be found in the analysis file named MD_turk.R in the repository for this paper. The results reported here reflect coding array type as an interval variable. Models treating this factor as an ordinal variable are available in the analysis script and produce very similar results except where noted. 
+
+[3] When coding array type as an ordinal variable, this model does not converge even with removal of random slopes/intercept terms
+
+[4] It is also possible to construct equivalent models that generate a distribution for single words, and then sample two words (without replacement) from each of those distributions. This yields equivalent results, see Supplemental Materials.
+
+[5] This is also the case if both utterances are informative, though in this experiment it is never the case that both AV and VP would uniquely identify the event.   
