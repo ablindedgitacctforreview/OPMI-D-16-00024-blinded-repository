@@ -1,0 +1,31 @@
+## Response coding
+
+Because all of the potential agents that participants saw were humans, and all of the potential patients belonged to the same superordinate category, participants sometimes used general descriptors or pronouns (e.g., Man, she, or fruit). There are two possible analysis choices given this situation: we can either apply exclusion criteria uniformly across conditions, or we can evaluate participants' responses according to whether a word like she fully disambiguates the agent from the particular context set the participant saw.  In practice this is a small difference; only 13 trials are affected by this decision. We use the latter coding scheme as more accurately reflecting participants' attempt to communicate this decision, but there are no qualitative differences in the results that depend on these 13 trials. In addition, some participants gave responses that were intended to convey a more general idea of the scene (e.g., Dog hungry), where it was not clear how a word mapped to one of the three elements in the event (should hungry be taken as an additional adjectival description of the patient, or a reference to the resulting feeding event that takes place?) Likewise, words were coded as verbs only if they were a form of the verb itself (e.g., eaten) or a close synonym (consume) to the sentence the participant read, but not if they referred to some other action/perspective on the scene (John standing – [Subject, Other]). 
+
+## Labels for the new ‘pragmatic’ coding of responses in the SDA experiment. 
+
+Following the description just given, we use the codes below to classify responses:
+
+11TOCODE - not yet classified
+
+OBJECT - from the speakers perspective (given exact condition [6:1]…[1:6]) the label is a unique reference to object.  (e.g. ‘it’ when there is only one object)
+
+AGENT - from the speakers perspective (given exact condition [6:1]…[1:6]) the label is a unique reference to agent. (‘her’ when there is only one female in the set.)
+
+VERB - its the verb 
+
+VAGUE-O - this is a clear reference to the object by some label (pronoun, more general category, weird descriptor), but not a unique referent.
+
+VAGUE-A - this is a clear reference to the object by some label (pronoun, more general category, weird descriptor), but not a unique referent.
+
+VAGUE-VAGUE - We can’t tell what you mean (Agent/patient), or it’s a description that folds in multiple parts (e.g. hungry)
+
+WRONG-O, -A, -V: You have entered a different verb or descriptor (noun or adj) that doesn’t describe the target event, e.g.
+
+‘group beverages’
+
+(This person thinks they are describing the context pictures themselves?) 
+
+CHEAT - You are trying to cheat (‘ronpushes thedog’ is 2 words by the string-matcher, but you are not doing the task)
+
+TYPO-A -O -V I think you made a typo (pick for kick)  probably will be counted as wrong-v
