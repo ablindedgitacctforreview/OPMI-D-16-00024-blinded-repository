@@ -2,8 +2,8 @@
 ## Analysis of multi-distractor 'SubDrop' experiment
 ###############################################################
 
-#To run somewhere other than MK's laptop
-#setwd(mydir) <- your directory here
+#To run on your laptop,
+#setwd(mydir) <- put your directory here
 
 #Necessary packages
 
