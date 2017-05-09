@@ -22,7 +22,7 @@ All stimuli used for the experiment reported in this paper. We include the origi
 * batch/
 * log/
 
-The raw data: outputs from AMT and the willow script
+The data outputs from AMT and the willow script. The batch files are exactly as collected, and the response files in log/ are updated only by the inclusion of extra columns used to classify text responses. 
 
 * MD11-20-12/
 
@@ -30,7 +30,7 @@ The willow script (randomizes order/condition assignments, displays trials to pa
 
 * Response coding/
 
-Files used during initial coding by RAs of raw responses -> category (e.g. 'dog' -> PATIENT)
+Files used during the initial coding of raw responses to category (e.g. 'dog' -> PATIENT). This folder also contains a full description of how coding of edge cases were handled during this step.
 
 ##### Files
 
