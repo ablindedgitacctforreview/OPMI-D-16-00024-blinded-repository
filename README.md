@@ -1,6 +1,8 @@
 # Subject-Drop
 
-Paper title: Nothing but the truth, but not the whole truth: Adults choose to mention agents and patients in proportion to informativity, even if it doesn’t fully disambiguate the message
+Paper title: Partial truths: Adults choose to mention agents and patients in proportion to informativity, even if it doesn’t fully disambiguate the message.
+
+This repository serves as the supplemental materials for the submitted manuscript OPMI-D-16-00024.  It's currently anonymized for peer review. 
 
 ### Abstract
 
