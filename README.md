@@ -14,6 +14,32 @@ This document
 
 Footnotes from the main manuscript
 
+#### MODELS/
+
+* MODEL SUPPLEMENT.docx
+
+Supplemental text describing two additional models referred to in the main text: 'succeed-or-fail' and RSA models that incorporate a cost term (reflecting the overall/context insensitive-base rate of mentioning agents, patients, and verbs). 
+
+* humandata.csv
+
+Identical to the version in Adult - Multidistractor/, copied here for convenience
+
+* mainFun.m, modelInformativeUtt.m
+
+Two matlab scripts that instantiate the models described in the paper; outputs are saved to the (many) csv files; note that the loop produces outputs for both the A human data and B human data, but in cases where there are no data-fit parameters these wind up being identical)
+
+* CompareModelToData.R
+
+Computes all the correlations and graphs reported in the modeling section of the paper, plus some new exploratory plots of human vs. model predictions by word. This script produces all the jpgs.
+
+* CSVs: dummycost, informative_baserate, informative_nobaserate, succeedorfail, etc. 
+
+Outputs of the models, produced by mainFun.m
+
+* one word models/
+
+Contains versions of the models used earlier on; they generated predictions for 1 word productions followed by sampling 2 words w/o replacement from those likelihoods (this is much more confusing to read about than the 2 word version)
+
 #### Stims for Multi-distractor/
 
 All stimuli used for the experiment reported in this paper. We include the original clip art used while generating the stimuli (objects), all context scenes (e.g. 1 person and 6 animals for the 'FEED' event, FEED_1_6.jpg), and all actions (FEED, DRINK, etc.)
@@ -45,28 +71,6 @@ The main analysis pipeline, which starts from the raw data and produces all anal
 * snazzy potato 11-20.txt
 
 IDs of AMT workers who participated in a pilot version of the study and thus shouldn't be included in analysis (we told them not to sign up if they had been in that experiment but some did anyway)
-
-#### MODELS/
-
-* humandata.csv
-
-Identical to the version in Adult - Multidistractor/, copied here for convenience
-
-* mainFun.m, modelInformativeUtt.m
-
-Two matlab scripts that instantiate the models described in the paper; outputs are saved to the (many) csv files; note that the loop produces outputs for both the A human data and B human data, but in cases where there are no data-fit parameters these wind up being identical)
-
-* CompareModelToData.R
-
-Computes all the correlations and graphs reported in the modeling section of the paper, plus some new exploratory plots of human vs. model predictions by word. This script produces all the jpgs.
-
-* CSVs: dummycost, informative_baserate, informative_nobaserate, succeedorfail, etc. 
-
-Outputs of the models, produced by mainFun.m
-
-* one word models/
-
-Contains versions of the models used earlier on; they generated predictions for 1 word productions followed by sampling 2 words w/o replacement from those likelihoods (this is much more confusing to read about than the 2 word version)
 
 ### Abstract
 
